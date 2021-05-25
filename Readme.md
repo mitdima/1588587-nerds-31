@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Дмитрий Митрушин](https://up.htmlacademy.ru/htmlcss/31/user/1588587).
-* Наставник: `Неизвестно`.
+* Наставник: [Arthur Litovko](https://up.htmlacademy.ru/htmlcss/31/user/6927).
 
 ---
 
